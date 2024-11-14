@@ -15,13 +15,13 @@ Check the [wiki](https://github.com/motu-tool/mOTUs/wiki) for more information.
 
 If you use mOTUs, please cite:
 
-> **Reference genome-independent taxonomic profiling of microbiomes with mOTUs3**
-> 
+> **Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments**
+>
 > Hans-Joachim Ruscheweyh*, Alessio Milanese*, Lucas Paoli, Nicolai Karcher, Quentin Clayssen,
 > Marisa Isabell Metzger, Jakob Wirbel, Peer Bork, Daniel R. Mende, Georg Zeller# & Shinichi Sunagawa#
-> 
+>
 > _Microbiome_ (2022)
-> 
+>
 > doi: [10.1186/s40168-022-01410-z](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
 
 
